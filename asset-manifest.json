@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/landing-paige/static/css/main.d4d1b4dc.css",
+    "main.js": "/landing-paige/static/js/main.5259e241.js",
+    "static/js/787.6606bfd5.chunk.js": "/landing-paige/static/js/787.6606bfd5.chunk.js",
+    "static/media/header-bg.jpg": "/landing-paige/static/media/header-bg.d4b99365827efba986f7.jpg",
+    "static/media/map-image.png": "/landing-paige/static/media/map-image.565a044f130e5aab6c4c.png",
+    "index.html": "/landing-paige/index.html",
+    "main.d4d1b4dc.css.map": "/landing-paige/static/css/main.d4d1b4dc.css.map",
+    "main.5259e241.js.map": "/landing-paige/static/js/main.5259e241.js.map",
+    "787.6606bfd5.chunk.js.map": "/landing-paige/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4d1b4dc.css",
+    "static/js/main.5259e241.js"
+  ]
+}
